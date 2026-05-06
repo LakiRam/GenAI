@@ -100,14 +100,14 @@ The AI industry has undergone a **paradigm shift** from traditional ML pipelines
 
 ## 4. Industry Salary & Role Evolution
 
-| Role | Focus | Avg Salary (US, 2025) |
-|------|-------|-----------------------|
-| ML Engineer | Traditional ML, model training | $150-200K |
-| AI Engineer | LLM apps, RAG, agents | $160-220K |
-| AI Engineering Manager | Team lead, architecture decisions | $200-280K |
-| MLOps/LLMOps Engineer | Production systems, monitoring | $155-210K |
-| AI Architect | System design, multi-model systems | $190-260K |
-| Prompt Engineer | Prompt design, eval (shrinking role) | $120-170K |
+| Role | Focus |
+|------|-------|
+| ML Engineer | Traditional ML, model training | 
+| AI Engineer | LLM apps, RAG, agents | 
+| AI Engineering Manager | Team lead, architecture decisions | 
+| MLOps/LLMOps Engineer | Production systems, monitoring | 
+| AI Architect | System design, multi-model systems | 
+| Prompt Engineer | Prompt design, eval (shrinking role) |
 
 **Key trend:** "Prompt Engineer" as a standalone role is shrinking. Prompt engineering is becoming a skill every AI engineer has, not a job title.
 
